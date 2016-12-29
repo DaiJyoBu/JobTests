@@ -1,5 +1,0 @@
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTests\bin\Debug\KasperskyTests.dll
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTests\bin\Debug\KasperskyTests.pdb
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTests\obj\Debug\KasperskyTests.csprojResolveAssemblyReference.cache
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTests\obj\Debug\KasperskyTests.dll
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTests\obj\Debug\KasperskyTests.pdb

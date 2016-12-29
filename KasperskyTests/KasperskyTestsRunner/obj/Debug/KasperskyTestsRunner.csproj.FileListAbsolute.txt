@@ -1,8 +1,0 @@
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\bin\Debug\KasperskyTestsRunner.exe.config
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\bin\Debug\KasperskyTestsRunner.exe
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\bin\Debug\KasperskyTestsRunner.pdb
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\bin\Debug\KasperskyTests.dll
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\bin\Debug\KasperskyTests.pdb
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\obj\Debug\KasperskyTestsRunner.csprojResolveAssemblyReference.cache
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\obj\Debug\KasperskyTestsRunner.exe
-D:\Projects\GitHub\JobTests\KasperskyTests\KasperskyTestsRunner\obj\Debug\KasperskyTestsRunner.pdb
