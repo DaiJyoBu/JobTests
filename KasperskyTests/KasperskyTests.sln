@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasperskyTests", "KasperskyTests\KasperskyTests.csproj", "{D050EAB9-9D2C-40F5-AE2C-B7C2B23A3E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasperskyTestsRunner", "KasperskyTestsRunner\KasperskyTestsRunner.csproj", "{E6A276C2-9407-4D73-99F2-6887DEB9D7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D050EAB9-9D2C-40F5-AE2C-B7C2B23A3E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D050EAB9-9D2C-40F5-AE2C-B7C2B23A3E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D050EAB9-9D2C-40F5-AE2C-B7C2B23A3E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D050EAB9-9D2C-40F5-AE2C-B7C2B23A3E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A276C2-9407-4D73-99F2-6887DEB9D7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A276C2-9407-4D73-99F2-6887DEB9D7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A276C2-9407-4D73-99F2-6887DEB9D7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A276C2-9407-4D73-99F2-6887DEB9D7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
